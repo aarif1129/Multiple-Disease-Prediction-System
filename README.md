@@ -1,2 +1,2 @@
 # Multiple-Disease-Prediction-System
-# Multiple-Disease-Prediction-System
+The project involves using Streamlit, an open-source Python framework, to develop an interactive web application that can predict multiple diseases based on patient data. The project includes collecting and preprocessing patient data, training a Machine Learning (ML) model using various algorithms, integrating the ML model with Streamlit, and displaying the prediction output in various formats. The application can be used to improve healthcare outcomes by assisting healthcare professionals in early diagnosis and treatment of diseases.
